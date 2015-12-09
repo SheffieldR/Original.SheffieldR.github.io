@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "National Biodiversity Hack Event"
-date:   2015-12-09 09:30:00 +0000
 categories: hack
+nodate: yes
 ---
-<!-- calendar link -->
+<!--- 
+	calendar link 
+-->
 We're in the process of organising an R hack in the new year. The hack will focus on the National Biodiversity Network's extensive data sets. The event will be open to all skill levels, whether you're an R expert or just interested in using R. No experience in R or biology is needed, just turn up and we'll help you get started.
 
 We'll be using GitHub to facilitate the hack so you'll also gain some experience in using Git to collaborate and share reproducible analyses.
 
 Best of all, lunch will be provided at the kick-off event!
 
-You can [register your interest in the event here](http://bit.ly/1RWxJ7l). We'll open registration for the event in early January.
-
-<!-- eventbrite link -->
-
-<!-- google questionnaire -->
+You can [register your interest in the event here](http://bit.ly/1RWxJ7l). We'll open registration for the event in early January. To get updates on the hack and our events, follow us on Twitter: [@Sheffield\_R\_](https://twitter.com/Sheffield_R_).
+<!--- eventbrite link -->
+<!--- google questionnaire -->
