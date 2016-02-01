@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "National Biodiversity Hack Event"
+categories: hack
+nodate: yes
+date:   2016-01-27 19:30:00 +0000
+---
+<!--- 
+	calendar link 
+-->
+We're running a hackathon event over three sessions in March. The hack will focus on the [National Biodiversity Network](http://www.nbn.org.uk)'s data to collaboratively develop outputs that benefit the public, Council or local wildlife organisations.
+
+See the [Hack details page](/nbn-hack/) for details on the event including how to register. To get updates on the hack and our events, follow us on Twitter: [@Sheffield\_R\_](https://twitter.com/Sheffield_R_).
+<!--- eventbrite link -->
+<!--- google questionnaire -->
