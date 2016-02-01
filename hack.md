@@ -28,4 +28,4 @@ The events are supported by the Sheffield Methods Institute and the Sheffield Sc
 
 [![SMI Logo]({{ site.url }}/assets/SMI_Logo.jpg)](https://www.sheffield.ac.uk/smi/smi) 
 
-[![SSG Logo]({{ site.url }}/assets/SSG_Logo.jpg)](http://ssg.sheffield.ac.uk) 
+[![SSG Logo]({{ site.url }}/assets/SSG_Logo.png)](http://ssg.sheffield.ac.uk) 
