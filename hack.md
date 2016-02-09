@@ -9,7 +9,7 @@ The events are open to all, whether you're an R expert or just interested in usi
 
 ## What we're aiming for
 
-Our aims for the event are to bring the University together with other practitioners in the local reason to learn more about R and share experience and do good for Sheffield by supporting the [Sheffield Wildlife Trust](http://www.wildsheffield.com) by focusing on biodiversity data for Sheffield.
+Our aims for the event are to bring the University together with other practitioners in the local area to learn more about R and share experience and do good for Sheffield by supporting the [Sheffield Wildlife Trust](http://www.wildsheffield.com) by focusing on biodiversity data for Sheffield.
 
 Our overall philosophy is; **"no pressure, just learn and code for fun!"**.
 
