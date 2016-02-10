@@ -7,6 +7,8 @@ In March 2016, we'll be running a hackathon event over three sessions. The hack 
 
 The events are open to all, whether you're an R expert or just interested in using R. No experience in R or biology is needed, just turn up and we'll help you get started with the [`rnbn`](https://cran.r-project.org/web/packages/rnbn/index.html) package. You'll learn more about R along the way, and maybe see some packages or other technologies you might not be familiar with that will be useful in your own projects. This is also a great opportunity to acquire and develop your open science skills that you could apply beyond the NBN data set alone.
 
+![Map](/assets/map.png){: style="width:450px; display:block; margin-left:auto; margin-right:auto" }
+
 To get everyone started with the NBN data set, we've created a short analysis using Jupyter that shows [how easy it is](http://nbviewer.jupyter.org/github/mathew-hall/SheffieldR/blob/master/NBN/NBN.ipynb)!
 
 ## What we're aiming for
@@ -28,6 +30,7 @@ The kickoff event will feature introductions and formation of breakout groups. T
 
 The events are supported by the Sheffield Methods Institute and the Sheffield Science Gateway.
 
-[![SMI Logo]({{ site.url }}/assets/SMI_Logo.jpg)](https://www.sheffield.ac.uk/smi/smi) 
+[![SMI Logo]({{ site.url }}/assets/SMI_Logo.jpg)](https://www.sheffield.ac.uk/smi/smi){: style="width:450px; display:block; margin-left:auto; margin-right:auto" }
 
-[![SSG Logo]({{ site.url }}/assets/SSG_Logo.png)](http://ssg.sheffield.ac.uk) 
+
+[![SSG Logo]({{ site.url }}/assets/SSG_Logo.png)](http://ssg.sheffield.ac.uk){: style="width:450px; display:block; margin-left:auto; margin-right:auto" }
