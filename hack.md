@@ -19,6 +19,7 @@ Our overall philosophy is; **"no pressure, just learn and code for fun!"**.
 
 ## Event details
 
+To sign up to the event, please visit our Eventbrite page at http://bit.ly/Sheffield_R_Hack.
 The events will all take place in the [Sheffield Methods Institute](https://www.sheffield.ac.uk/smi) [\[Map\]](https://www.google.co.uk/maps/place/53°22'52.0%22N+1°28'54.2%22W/@53.381103,-1.48173,18z/data=!4m2!3m1!1s0x0:0x0). 
 
 |   Kickoff Event  | Tuesday 23 Feburary 17:30              |
@@ -26,7 +27,7 @@ The events will all take place in the [Sheffield Methods Institute](https://www.
 |   Session 2       | Tuesday 8 March 13:00  onwards     |  
 |   Final Session & Feedback   | Tuesday 15 March 13:00 onwards    | 
 
-The kickoff event will feature introductions and formation of breakout groups. The other sessions will see the groups develop their ideas and contribute them to a central hub (via GitHub).
+The kickoff event will feature introductions and formation of breakout groups. The other sessions will see the groups develop their ideas and contribute them to a central hub (via GitHub). Don't worry if you cannot attend all sessions, or need to come later in the day - you are more than welcome to come to as little or as many of the sessions as you can.
 
 The events are supported by the Sheffield Methods Institute and the Sheffield Science Gateway.
 
