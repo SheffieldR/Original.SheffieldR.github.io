@@ -25,10 +25,10 @@ To sign up to the event, please visit our [Eventbrite page](https://www.eventbri
 
 We'll start with a kickoff event at the Red Deer on Tuesday 23 February then the hack sessions will take place in the [Sheffield Methods Institute](https://www.sheffield.ac.uk/smi) [\[Map\]](https://www.google.co.uk/maps/place/53°22'52.0%22N+1°28'54.2%22W/@53.381103,-1.48173,18z/data=!4m2!3m1!1s0x0:0x0). 
 
-|   Kickoff Event at the Red Deer | Tuesday 23 February 17:30              |
-|   Session 1                                 | Tuesday 1 March 13:00  onwards     |
-|   Session 2                                 | Tuesday 8 March 13:00  onwards     |  
-|   Final Session & Feedback       | Tuesday 15 March 13:00 onwards    | 
+|   Kickoff Event at the Red Deer					      | Tuesday 23 February 17:30              |
+|   Session 1 at the Sheffield Methods Institute			      | Tuesday 1 March 16:30  onwards     |
+|   Session 2 at the Sheffield Methods Institute			      | Tuesday 8 March 16:30  onwards     |  
+|   Final Session & Feedback  at the Sheffield Methods Institute | Tuesday 15 March 16:30 onwards    | 
 
 The kickoff event will feature introductions and formation of breakout groups. The other sessions will see the groups develop their ideas and contribute them to a central hub (via GitHub). Don't worry if you cannot attend all sessions, or need to come later in the day - you are more than welcome to come to as little or as many of the sessions as you can.
 
