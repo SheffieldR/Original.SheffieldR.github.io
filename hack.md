@@ -19,7 +19,7 @@ Our overall philosophy is; **"no pressure, just learn and code for fun!"**.
 
 ## Event details
 
-To sign up to the event, please visit our Eventbrite page at http://bit.ly/Sheffield_R_Hack.
+To sign up to the event, please visit our [Eventbrite page](https://www.eventbrite.co.uk/e/sheffieldr-nbn-biodiversity-hack-tickets-21300740087).
 The events will all take place in the [Sheffield Methods Institute](https://www.sheffield.ac.uk/smi) [\[Map\]](https://www.google.co.uk/maps/place/53°22'52.0%22N+1°28'54.2%22W/@53.381103,-1.48173,18z/data=!4m2!3m1!1s0x0:0x0). 
 
 |   Kickoff Event  | Tuesday 23 Feburary 17:30              |
