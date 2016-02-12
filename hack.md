@@ -1,8 +1,11 @@
 ---
 layout: page
-title: SheffieldR NBN Hack
+title: Sheffield Biodiversity Data Hack
 permalink: /nbn-hack/
 ---
+
+#### *The first community data hack of the Sheffield R Users Group*
+
 In March 2016, we'll be running a hackathon event over three sessions. The hack will focus on the [National Biodiversity Network](http://www.nbn.org.uk)'s data to collaboratively develop outputs that benefit the public, Council or local wildlife organisations.
 
 The events are open to all, whether you're an R expert or just interested in using R. No experience in R or biology is needed, just turn up and we'll help you get started with the [`rnbn`](https://cran.r-project.org/web/packages/rnbn/index.html) package. You'll learn more about R along the way, and maybe see some packages or other technologies you might not be familiar with that will be useful in your own projects. This is also a great opportunity to acquire and develop your open science skills that you could apply beyond the NBN data set alone.
@@ -32,6 +35,8 @@ We'll start with a kickoff event at the Red Deer on Tuesday 23 February then the
 {:style="padding-bottom:20px; padding-left:5px; padding-right:5px"}
 
 The kickoff event will feature introductions and formation of breakout groups. The other sessions will see the groups develop their ideas and contribute them to a central hub (via GitHub). Don't worry if you cannot attend all sessions, or need to come later in the day - you are more than welcome to come to as little or as many of the sessions as you can.
+
+**There will be free food at the events!**
 
 The events are supported by the Sheffield Methods Institute and the Sheffield Science Gateway.
 
