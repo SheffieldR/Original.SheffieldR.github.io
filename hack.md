@@ -40,7 +40,6 @@ The kickoff event will feature introductions and formation of breakout groups. T
 
 The events are supported by the Sheffield Methods Institute and the Sheffield Science Gateway.
 
-[![SMI Logo]({{ site.url }}/assets/SMI_Logo.jpg)](https://www.sheffield.ac.uk/smi/smi){: style="width:450px; display:block; margin-left:auto; margin-right:auto" }
+[![SMI Logo](/assets/SMI_Logo.jpg){: style="width:350px; display:block; margin-left:auto; margin-right:auto" }](https://www.sheffield.ac.uk/smi/smi)
 
-
-[![SSG Logo]({{ site.url }}/assets/SSG_Logo.png)](http://ssg.sheffield.ac.uk){: style="width:450px; display:block; margin-left:auto; margin-right:auto" }
+[![SSG Logo](/assets/SSG_Logo.jpg){: style="width:350px; display:block; margin-left:auto; margin-right:auto" }](http://ssg.sheffield.ac.uk)
