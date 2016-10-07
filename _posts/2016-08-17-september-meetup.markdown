@@ -6,6 +6,7 @@ categories: meetups
 speakers: 
   Alison Parton:
     title: Can you trust the humble statistician?  An intro to unit testing in R
+    localslides: /assets/slides/2016-09-unit-testing-alison-parton.pdf
   Jeremy Oakley:
     title: "SHELF: an R package for expert elicitation"
 ---
