@@ -3,6 +3,13 @@ layout: post
 title:  "October Sheffield R Meetup: Mathew Hall and Mike Croucher"
 date:   2016-09-17 17:30:00 +0000
 categories: meetups
+speakers: 
+  Mathew Hall:
+    title: Jupyter Notebook
+    localslides: /assets/slides/2016-10-jupyter-mathew-hall.pdf
+  Mike Croucher:
+    title: x and R
+    remoteslides: https://mikecroucher.github.io/x_and_R/#/
 ---
 At this month's meeting we'll be talking about how R interacts with different languages and technologies.
 

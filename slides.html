@@ -1,0 +1,40 @@
+---
+layout: default
+title: Speaker List
+permalink: /slides/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+		{% if post.speakers %}
+		<ul>
+			{% for speaker in post.speakers %}
+			{% assign slides = speaker[1] %}
+			<li>{{ speaker[0] }}:
+				{% if slides.localslides %}
+				<a href="{{ slides.localslides | prepend:site.baseurl }}">{{ speaker[1].title }}</a>
+				{% else if slides.remoteslides %}
+				<a href="{{ slides.remoteslides | prepend:site.baseurl }}">{{ speaker[1].title }}</a>
+				{% else %}
+				{{ speaker[1].title }}
+				{% endif %}
+
+			</li>
+			{% endfor %}
+		</ul>
+		{% else %}
+		<p>We don't have the slides for this event</p>
+		{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
