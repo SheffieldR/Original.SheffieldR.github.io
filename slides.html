@@ -18,11 +18,11 @@ permalink: /slides/
 			{% assign slides = speaker[1] %}
 			<li>{{ speaker[0] }}:
 				{% if slides.localslides %}
-				<a href="{{ slides.localslides | prepend:site.baseurl }}">{{ speaker[1].title }}</a>
-				{% else if slides.remoteslides %}
-				<a href="{{ slides.remoteslides | prepend:site.baseurl }}">{{ speaker[1].title }}</a>
+				<a href="{{ slides.localslides | prepend:site.baseurl }}">{{ slides.title }}</a>
+				{% elsif slides.remoteslides %}
+				<a href="{{ slides.remoteslides | prepend:site.baseurl }}">{{ slides.title }}</a>
 				{% else %}
-				{{ speaker[1].title }}
+				{{ slides.title }}
 				{% endif %}
 
 			</li>

@@ -3,6 +3,11 @@ layout: post
 title:  "September Sheffield R Meetup: Alison Parton and Jeremy Oakley"
 date:   2016-08-17 17:30:00 +0000
 categories: meetups
+speakers: 
+  Alison Parton:
+    title: Can you trust the humble statistician?  An intro to unit testing in R
+  Jeremy Oakley:
+    title: "SHELF: an R package for expert elicitation"
 ---
 After the summer break, Sheffield R group is back with a couple of great talks to kick off the new season.
 
