@@ -9,6 +9,7 @@ speakers:
     localslides: /assets/slides/2016-09-unit-testing-alison-parton.pdf
   Jeremy Oakley:
     title: "SHELF: an R package for expert elicitation"
+    localslides: /assets/slides/2016-09-shelf-jeremy-oakley.pdf
 ---
 After the summer break, Sheffield R group is back with a couple of great talks to kick off the new season.
 
