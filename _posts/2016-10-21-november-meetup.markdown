@@ -8,6 +8,7 @@ speakers:
     title: "Getting by with help from family and neighbours: spatially and phylogenetically lagged models in R (with a bit of JAGS)"
   Lukas Drapal:
     title: Compete (and win) on Kaggle.com
+    localslides: /assets/slides/2016-11-kaggle-lukas-drapal.pdf
 ---
 At this month's meeting we'll be talking about modelling, inference, and prediction.
 
