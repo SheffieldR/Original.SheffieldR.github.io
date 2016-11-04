@@ -16,15 +16,26 @@ permalink: /slides/
 		<ul>
 			{% for speaker in post.speakers %}
 			{% assign slides = speaker[1] %}
-			<li>{{ speaker[0] }}:
-				{% if slides.localslides %}
-				<a href="{{ slides.localslides | prepend:site.baseurl }}">{{ slides.title }}</a>
-				{% elsif slides.remoteslides %}
-				<a href="{{ slides.remoteslides | prepend:site.baseurl }}">{{ slides.title }}</a>
-				{% else %}
-				{{ slides.title }}
-				{% endif %}
-
+			<li class="speaker_row">
+				<span class="speaker_name">
+					{{ speaker[0] }}:
+				</span>
+				<span class="speaker_title">
+					{% if slides.localslides %}
+						<a href="{{ slides.localslides | prepend:site.baseurl }}">{{ slides.title }}</a>
+					{% elsif slides.remoteslides %}
+						<a href="{{ slides.remoteslides }}">{{ slides.title }}</a>
+					{% else %}
+					{{ slides.title }}
+					{% endif %}
+				</span>
+				<span class="speaker_material">
+					{% if slides.remotematerial %}
+					Material available online: <a href="{{ slides.remotematerial }}">{{ slides.remotematerial }}</a>
+					{% elsif slides.localmaterial %}
+					Material available <a href="{{ slides.localmaterial  | prepend:site.baseurl}}">here</a>
+					{% endif %}
+				</span>
 			</li>
 			{% endfor %}
 		</ul>

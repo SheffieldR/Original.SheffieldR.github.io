@@ -1,0 +1,13 @@
+.speaker_row{
+	display:block;
+}
+
+.speaker_name{
+	display:block;
+}
+
+.speaker_title,.speaker_material{
+	display:block;
+	padding-left:4em;
+	text-indent:-2em;
+}

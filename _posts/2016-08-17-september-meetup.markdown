@@ -7,9 +7,11 @@ speakers:
   Alison Parton:
     title: Can you trust the humble statistician?  An intro to unit testing in R
     localslides: /assets/slides/2016-09-unit-testing-alison-parton.pdf
+    localmaterial: "/assets/material/2016-09/script.R"
   Jeremy Oakley:
     title: "SHELF: an R package for expert elicitation"
     localslides: /assets/slides/2016-09-shelf-jeremy-oakley.pdf
+    localmaterial: "/assets/material/2016-09/SHELF demo.R"
 ---
 After the summer break, Sheffield R group is back with a couple of great talks to kick off the new season.
 
