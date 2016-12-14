@@ -1,13 +1,17 @@
 .speaker_row{
+	padding-top:0.5em;
 	display:block;
 }
 
 .speaker_name{
 	display:block;
+	font-weight:bold;
 }
 
 .speaker_title,.speaker_material{
 	display:block;
 	padding-left:4em;
 	text-indent:-2em;
+	font-style:oblique;
 }
+
