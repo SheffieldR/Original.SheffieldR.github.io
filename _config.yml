@@ -10,7 +10,7 @@ title: Sheffield R Users
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Sheffield R user group is for anyone in Sheffield who uses or is interested in
-  using the R stastistical package.
+  using the R statistical package.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sheffieldr.github.io" # the base hostname & protocol for your site
 twitter_username: Sheffield_R_
