@@ -21,7 +21,7 @@ Martin Garlovsky, a PhD student studying sexual selection and speciation, will t
 
 Analyst and data lover, Christopher Hopkinson, will be delving into the bowels of the R language to try to understand how R evaluates our code and when this may lead to unexpected results.
 
-If this topic is of interest, you might like to have a read of (Hadley's Advanced R book)[http://adv-r.had.co.nz/Computing-on-the-language.html].
+If this topic is of interest, you might like to have a read of [Hadley's Advanced R book](http://adv-r.had.co.nz/Computing-on-the-language.html).
 
 Hope to see you there!
 
