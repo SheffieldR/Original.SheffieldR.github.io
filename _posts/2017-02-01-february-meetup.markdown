@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "February Sheffield R Meetup: Martin Garlovsky and Christopher Hopkinson"
-date:   2016-11-16 10:30:00 +0000
+date:   2017-02-01 10:30:00 +0000
 categories: meetups
 speakers: 
   Martin Garlovsky:
