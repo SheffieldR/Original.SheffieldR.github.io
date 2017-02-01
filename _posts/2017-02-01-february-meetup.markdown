@@ -11,13 +11,13 @@ speakers:
 ---
 In this month's meeting we'll explore survival analysis, a means of analysing data in which the outcome is the time to the occurrence of an event of interest. We'll also be finding out about one of the more esoteric features of the R language, namely non-standard evaluation.
 
-###Survival analysis with coxme
+### Survival analysis with coxme
 
 Martin Garlovsky, a PhD student studying sexual selection and speciation, will talk about using Cox proportional hazards models with random effects to perform survival analysis. Survival analysis can be used for a wide range of "time to event" data, e.g. deaths, divorce, maturation, relapse, disease etc, and is applicable in a wide range of biological, medical and social research. The R packages coxme, coxph and survival provide methods for survival analysis.
 
 
 
-###Non-Standard Evaluation, or why R is a little unusual
+### Non-Standard Evaluation, or why R is a little unusual
 
 Analyst and data lover, Christopher Hopkinson, will be delving into the bowels of the R language to try to understand how R evaluates our code and when this may lead to unexpected results.
 
