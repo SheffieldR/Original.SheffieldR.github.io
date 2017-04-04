@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "September March R Meetup: Code surgery and social"
+title:  "March R Meetup: Code surgery and social"
 date:   2017-03-07 17:30:00 +0000
 categories: meetups
 speakers: 
