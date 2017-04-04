@@ -5,7 +5,7 @@ date:   2017-03-07 17:30:00 +0000
 categories: meetups
 speakers: 
   R group members:
-    title: Code surgery: round table discussion
+    title: "Code surgery: round table discussion"
     localmaterial: "/assets/material/2017-03/ListColumnDemo.R"
 ---
 
