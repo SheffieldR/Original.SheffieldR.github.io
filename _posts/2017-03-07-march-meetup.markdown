@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March R Meetup: Code surgery and social"
+title:  "March Sheffield R Meetup: Code surgery and social"
 date:   2017-03-07 17:30:00 +0000
 categories: meetups
 speakers: 
