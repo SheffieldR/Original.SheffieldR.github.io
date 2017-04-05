@@ -9,7 +9,7 @@ speakers:
     remotematerial: https://github.com/SheffieldMethodsInstitute/windfarmsHousePrices 
   James Waterhouse and Darrell Taylor:
     title: Data Juggling at SkyBet
-    localslides: "assets/slides/2016-12-data-juggling-james-waterhouse-darell-taylor.pdf"
+    localslides: "/assets/slides/2016-12-data-juggling-james-waterhouse-darell-taylor.pdf"
 ---
 This month we'll be learning about R's capabilities for wrangling and handling spatial data and how Sky Betting and Gaming does data science.
 
