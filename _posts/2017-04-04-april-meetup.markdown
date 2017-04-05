@@ -7,8 +7,8 @@ speakers:
   Duncan Gillespie:
     title: "Teaching with R Notebooks"
   Pieter Wessels:
-    title: "Wisdom of the crowd - Ensembles in machine learning, and the factors that influence them"
-    localslides: "assets/slides/2017-04-ensembles-pieter-wessels.pdf
+    title: "'Wisdom of the crowd': Ensembles in machine learning, and the factors that influence them"
+    localslides: "assets/slides/2017-04-ensembles-pieter-wessels.pdf"
 ---
 This month's talks cover ensembles in machine learning and using R notebooks as a learning tool.
 
