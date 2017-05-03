@@ -6,6 +6,7 @@ categories: meetups
 speakers:
   Théo Michelot:
     title: "Using C++ to speed up R code"
+    localslides: "/assets/slides/2017-05-speed_up_r_with_cpp-theo-michelot.pdf"
 ---
 This month we'll be learning from Théo Michelot how to make R go faster using a couple of techniques.
 
