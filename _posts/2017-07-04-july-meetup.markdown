@@ -11,6 +11,8 @@ speakers:
 ---
 We've got two great talks lined up for our last meeting before the summer break. 
 
+_Update: Due to a change in availability we have had to postpone the talk on object oriented systems in R. Instead we'll be holding an informal code clinic, so come along with any coding problems that you want to discuss._
+
 **Rebecca Senior** is a 3rd year PhD student in the Department of Animal and Plant Sciences at the University of Sheffield, and avid lover of using R to do just about everything! She studies interactions between land-use change and climate change in the tropics. She’s going to talk about the work she’s been doing analysing thermal image data collected in the forests of Borneo. 
 
 **Chris Hopkinson** is a Sheffield R group regular, analyst and data lover. He’ll be giving us the low-down on object oriented systems in R.
