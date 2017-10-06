@@ -20,6 +20,9 @@ We'll be following up our introductory **Celebrating Hacktoberfest** session wit
 
 <!--more-->
 
+<br />
+
+![Hacktoberfest banner](https://cloud.githubusercontent.com/assets/121322/18864038/31532b4a-8449-11e6-8701-97c00c95bf09.png)
 
 It’s [Hacktoberfest](https://hacktoberfest.digitalocean.com/) over on GitHub! a global celebration of open source intended to promote participation in open source projects.
 
