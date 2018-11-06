@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
+
+body { font-family: 'Inconsolata', 'Lucida Console', Monaco; }
+
+.title-slide {
+  background-image: url(https://www.r-project.org/logo/Rlogo.png);
+	background-position: center bottom 170px;
+	background-size: 30%;
+	border-bottom: 0px solid  #522D80;
+	box-shadow:  0 55px 0 #fff;
+}
