@@ -1,8 +1,8 @@
 ---
 title: "Sheffield R Users Group"
-subtitle: "🦉<br/>Phylogenetic Comparative Analyses"
-author: "Chris Cooney - Yichen He"
-date: "6 November 2018"
+subtitle: "🗺 🐘 🔍 <br/>Mapping and spatial modelling in R for crime prevention and conservation"
+author: "Reka Solymosi - Jo Hill"
+date: "6 August 2019"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -16,14 +16,14 @@ output:
 
 **Welcome to the Sheffield R group!**
 
-We’re a friendly group of [#rstats](https://twitter.com/search?q=%23rstats&src=tyah) afficionados that meet each month to learn about and discuss R over a drink or two. 
+We’re a **friendly group** of [#rstats](https://twitter.com/search?q=%23rstats&src=tyah) afficionados that meet each month to learn about and discuss R over a drink or two. 
 
 
 All levels of R users welcome!!
 
 <br>
 
-
+Keep it **open, considerate and respectful** by following the [R Consortium Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct) 
 
 #### `r icon::fa_twitter()` [@Sheffield_R_](https://twitter.com/Sheffield_R_)
 
@@ -33,10 +33,19 @@ All levels of R users welcome!!
 
 ---
 
+## Our Sponsors
+
+
+<img src= "https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/blob/master/assets/images/rse-sheffield-logo.png?raw=true" width="400px">
+
+<img src= "https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="400px">
+
+---
+
 
 # Tell us about R & U!
 
-We're always looking for speakers who **want to share how they use R!**
+### We're always looking for speakers who **want to share how they use R!**
 
 All topics welcome, from **R basics** to **demos of specialised analyses packages**! 
 
@@ -50,30 +59,19 @@ All topics welcome, from **R basics** to **demos of specialised analyses package
 
 #### Resources on making presentations in R
 
-- [Xaringan Presentation Ninja](https://slides.yihui.name/xaringan/#1)
+- [Xaringan Presentation Ninja](https://annakrystalli.me/talks/xaringan/xaringan.html#1)
 - [Make Your Presentations Fun in Xaringan](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
-
-
-
----
-
-## Our Sponsors
-
-
-<img src= "https://rse.shef.ac.uk/images/rse-sheffield-logo.png" width="400px">
-
-<img src= "https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="400px">
 
 ---
 
 ## Today's topics
 
-### Phylogenetic Comparative Analysis double bill
+### Spatial Summer Special with extra special guests:
 
 
-- **Chris Cooney:** An introduction to phylogenetic comparative analysis and visualisation in R. 
+- **Reka Solymosi (@r_solymosi, University of Manchester):** using R to scrape, sample & map crowdsourced reports of sexual harassment in India.
 
 
--
 
-- **Yichen He:** Machine learning approaches to image categorisation (with a python flavour).
+
+- **Jo Hill (Rutgers School of Criminal Justice):**: spatial modeling in #rstats to promote conservation in Uganda!.
