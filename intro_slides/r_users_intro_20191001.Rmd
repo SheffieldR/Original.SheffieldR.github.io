@@ -1,7 +1,7 @@
 ---
 title: "Sheffield R Users Group"
 subtitle: "Hacktoberfest 2019"
-author: "Mark Dunning"
+author: "Mark Dunning & Anna Krystalli"
 date: "01 October 2019"
 output:
   xaringan::moon_reader:
@@ -61,9 +61,29 @@ All topics welcome, from **R basics** to **demos of specialised analyses package
 <img src= "https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="400px">
 
 ---
+background-image: url("assets/hacktober19_slide.png")
+background-position: center
+background-size: cover
+class: inverse
 
 ## Today's topics
 
 ### Hacktoberfest 2019 Kick-off
 
-<img src="Hacktoberfest_19_Events_1025x513.png" width=1025>
+.pull-left[
+
+#### Mark Dunning
+
+Introduction to Hacktoberfest & Contributing to Open Source
+
+]
+
+.pull-right[
+
+#### Anna Krystalli
+
+Setting up and working with git & GitHub through R & Rstudio
+
+[Slides](https://annakrystalli.me/talks/git_github_rstudio.html#1)
+
+]

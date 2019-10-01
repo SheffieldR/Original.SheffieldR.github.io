@@ -3,7 +3,7 @@
   <head>
     <title>Sheffield R Users Group</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Mark Dunning" />
+    <meta name="author" content="Mark Dunning &amp; Anna Krystalli" />
     <meta name="date" content="2019-10-01" />
     <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
     <link href="libs/font-awesome-5.3.1/css/fontawesome-all.min.css" rel="stylesheet" />
@@ -15,7 +15,7 @@ class: center, middle, inverse, title-slide
 
 # Sheffield R Users Group
 ## Hacktoberfest 2019
-### Mark Dunning
+### Mark Dunning &amp; Anna Krystalli
 ### 01 October 2019
 
 ---
@@ -69,12 +69,32 @@ All topics welcome, from **R basics** to **demos of specialised analyses package
 &lt;img src= "https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="400px"&gt;
 
 ---
+background-image: url("assets/hacktober19_slide.png")
+background-position: center
+background-size: cover
+class: inverse
 
 ## Today's topics
 
 ### Hacktoberfest 2019 Kick-off
 
-&lt;img src="Hacktoberfest_19_Events_1025x513.png" width=1025&gt;
+.pull-left[
+
+#### Mark Dunning
+
+Introduction to Hacktoberfest &amp; Contributing to Open Source
+
+]
+
+.pull-right[
+
+#### Anna Krystalli
+
+Setting up and working with git &amp; GitHub through R &amp; Rstudio
+
+[Slides](https://annakrystalli.me/talks/git_github_rstudio.html#1)
+
+]
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
@@ -121,24 +141,7 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     deleted = true;
   });
-})();
-// adds .remark-code-has-line-highlighted class to <pre> parent elements
-// of code chunks containing highlighted lines with class .remark-code-line-highlighted
-(function(d) {
-  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
-  const preParents = [];
-  const findPreParent = function(line, p = 0) {
-    if (p > 1) return null; // traverse up no further than grandparent
-    const el = line.parentElement;
-    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
-  };
-
-  for (let line of hlines) {
-    let pre = findPreParent(line);
-    if (pre && !preParents.includes(pre)) preParents.push(pre);
-  }
-  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
-})(document);</script>
+})();</script>
 
 <script>
 (function() {
