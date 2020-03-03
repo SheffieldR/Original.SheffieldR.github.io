@@ -18,3 +18,7 @@ github_username:  SheffieldR
 
 # Build settings
 markdown: kramdown
+
+# Exclude intro slides markdown to avoid messing up auto-generated navigation menu
+exclude:
+- intro_slides/*.Rmd
