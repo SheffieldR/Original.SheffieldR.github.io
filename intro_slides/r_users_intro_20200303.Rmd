@@ -1,0 +1,69 @@
+---
+title: "Sheffield R Users Group"
+subtitle: "March 2020 meetup"
+author: "Simon Rolph & Anna Krystalli"
+date: "03 March 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "r_users.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Welcome `r emo::ji("wave")`
+
+**Welcome to the Sheffield R group!**
+
+We’re a friendly group of [#rstats](https://twitter.com/search?q=%23rstats&src=tyah) afficionados that meet each month to learn about and discuss R over a drink or two. 
+
+
+All levels of R users welcome!!
+
+<br>
+
+#### `r icon::fa_twitter()` [@Sheffield\_R\_](https://twitter.com/Sheffield_R_)
+
+#### `r icon::fa("globe")` <https://sheffieldr.github.io/>
+
+#### `r icon::fa("meetup")` <https://meetup.com/SheffieldR-Sheffield-R-Users-Group/>
+
+---
+
+# Tell us about R & U!
+
+We're always looking for speakers who **want to share how they use R!**
+
+All topics welcome, from **R basics** to **demos of specialised analyses packages**! 
+
+<br>
+
+`r icon::fa("sign-in-alt")` Sign up to give a talk here:  [bit.ly/talk_r](http://bit.ly/talk_r)
+
+<br>
+
+***
+
+#### Resources on making presentations in R
+
+- [Xaringan Presentation Ninja](https://slides.yihui.name/xaringan/#1)
+- [Make Your Presentations Fun in Xaringan](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
+
+
+
+---
+
+## Our Sponsors
+
+<img src= "rse-sheffield-logo.png" width="400px">
+
+<img src= "https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="400px">
+
+---
+
+## Today's topics
+
+- **Simon Rolph (`r icon::fa_twitter()` [@simon\_rolph](https://twitter.com/simon_rolph), University of Sheffield)**: 3D Plots with Rayshader 
+
+- **Anna Krystalli (`r icon::fa_twitter()` [@annakrystalli](https://twitter.com/annakrystalli), University of Sheffield)**: Reflections on Rstudio::conf 2020
